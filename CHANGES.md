@@ -1,3 +1,21 @@
+2021-05-03, Version 5.4.0
+=========================
+
+ * Add on delete options on FK constraints (Quentin Le Bour)
+
+ * ci: switch from Travis to Github Actions (Agnes Lin)
+
+ * Revert "ci: switch travis to github actions" (Miroslav Bajtoš)
+
+ * ci: switch travis to github actions (Francisco Buceta)
+
+
+2020-12-07, Version 5.3.0
+=========================
+
+ * fix: enable pool error handling (Matthew Gabeler-Lee)
+
+
 2020-11-10, Version 5.2.1
 =========================
 
